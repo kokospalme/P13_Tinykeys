@@ -11,7 +11,7 @@ Was du benötigst
   - Widerstände 1MΩ: R1,R2,R3,R4,R5,R6,R7,R8
   - Widerstand 2kΩ: R10
   - Widerstand 47kΩ: R11
-  - Widerstand 4,7k: R12
+  - Widerstand 10k: R12
   - LED 3mm: D1
   - Taster: SW1, SW2
   - ISP-Stecker 6 pin: J2
@@ -55,7 +55,7 @@ Eine optimale Reihenfolge ergibt sich wie folgt:
 - Widerstand 2kΩ: R10
 - Adio-Buchse 3.5mm Klinke: J3
 - Widerstand 47kΩ: R11
-- Widerstand 4,7k: R12
+- Widerstand 10k: R12
 - ISP-Stecker 6 pin: J2
 - Stiftleiste 2x2.54: JP1
 - Potentiometer 10kΩ: RV1
