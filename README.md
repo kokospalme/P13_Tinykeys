@@ -6,7 +6,7 @@ Unterlagen zum Projekt "Luftmesser" (v1.0), C. Wüpping, 2022
 ## getting started (hardware v1.0)
 Was du benötigst
 - Tinykeys Platine
-- [Tinykeys Case](https://github.com/kokospalme/P13_Tinykeys/tree/main/Case)
+- [Tinykeys Gehäuse](https://github.com/kokospalme/P13_Tinykeys/tree/main/Case)
 - Bauteile:
   - Widerstände 1MΩ: R1,R2,R3,R4,R5,R6,R7,R8
   - Widerstand 2kΩ: R10
@@ -32,6 +32,7 @@ Was du benötigst
 - 2 Schrauben 3 x 4mm (Durchmesser X Länge)
 - Computer/Laptop
 - [Arduino IDE](https://www.arduino.cc/en/software) oder andere Programmierumgebung, zB [SLOEBER](http://eclipse.baeyens.it/) oder [PlatformIO](https://platformio.org/)
+- [Programmcode ("sketch")](https://github.com/kokospalme/P13_Tinykeys/tree/main/Code)
 - ISP Programmer + Kabel
 
 ###### <img src="https://hobby-elektronik.ch/images/product_images/popup_images/USBasp-ISP-Programmer-fuer-Atmel:__:854_0.jpg">
