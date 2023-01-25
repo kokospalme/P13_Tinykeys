@@ -5,8 +5,8 @@ Unterlagen zum Projekt "Luftmesser" (v1.0), C. Wüpping, 2022
 
 ## getting started (hardware v1.0)
 Was du benötigst
-- [Tinykeys Platine]()
-- Tinykeys Case
+- Tinykeys Platine
+- [Tinykeys Case](https://github.com/kokospalme/P13_Tinykeys/tree/main/Case)
 - Bauteile:
   - Widerstände 1MΩ: R1,R2,R3,R4,R5,R6,R7,R8
   - Widerstand 2kΩ: R10
